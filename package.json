@@ -17,7 +17,10 @@
   },
   "homepage": "https://github.com/KhalidNabhani/static_node_and_express_site-v1-master#readme",
   "dependencies": {
+    "cookie-parser": "^1.4.5",
     "express": "^4.17.1",
+    "http-errors": "^1.8.0",
+    "path": "^0.12.7",
     "pug": "^3.0.2"
   }
 }
