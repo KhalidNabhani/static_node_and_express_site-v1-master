@@ -12,8 +12,8 @@
         "live_link": "",
         "github_link": "",
         "image_urls": [
-          "static/images/RandomQuotes_1.png",
-          "static/images/RandomQuotes_2.png"
+          "/static/images/RandomQuotes_1.png",
+          "/static/images/RandomQuotes_2.png"
         ]
       },
       {
