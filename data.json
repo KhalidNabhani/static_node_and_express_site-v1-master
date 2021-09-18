@@ -1,0 +1,53 @@
+{
+    "projects": [
+      {
+        "id": 0,
+        "project_name": "A Random Quote Generator",
+        "description": "An app that displays random quotes and background colors automatically or when a button is clicked.",
+        "technologies": [
+          "JavScript", 
+          "CSS", 
+          "HTML"
+        ],
+        "live_link": "",
+        "github_link": "",
+        "image_urls": [
+          "static/images/RandomQuotes_1.png",
+          "static/images/RandomQuotes_2.png"
+        ]
+      },
+      {
+        "id": 1,
+        "project_name": "Data Pagination and Filtering",
+        "description": "Displays a list of students restricted to nine students per page. Student list can be searched based on name.",
+        "technologies": [
+          "JavScript", 
+          "CSS", 
+          "HTML"
+        ],
+        "live_link": "",
+        "github_link": "",
+        "image_urls": [
+          "/static/images/data-pagination-and-filtering_1.png",
+          "/static/images/data-pagination-and-filtering_2.png"
+        ]
+      },
+      {
+        "id": 2,
+        "project_name": "Interactive Form",
+        "description": "Form manupulation in JavaScript",
+        "technologies": [
+          "JavScript", 
+          "CSS", 
+          "HTML"
+        ],
+        "live_link": "",
+        "github_link": "",
+        "image_urls": [
+          "/static/images/interactive-form_1.png",
+          "/static/images/interactive-form_2.png"
+        ]
+      }
+      
+    ]
+}
