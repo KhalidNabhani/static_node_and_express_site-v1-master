@@ -9,8 +9,8 @@
           "CSS", 
           "HTML"
         ],
-        "live_link": "",
-        "github_link": "",
+        "live_link": " https://khalidnabhani.github.io/a_rondom_quote_generator-v1/",
+        "github_link": "https://github.com/KhalidNabhani/a_rondom_quote_generator-v1.git",
         "image_urls": [
           "/static/images/RandomQuotes_1.png",
           "/static/images/RandomQuotes_2.png"
@@ -26,7 +26,7 @@
           "HTML"
         ],
         "live_link": "",
-        "github_link": "",
+        "github_link": "https://github.com/KhalidNabhani/data-pagination-and-filtering-v1.git",
         "image_urls": [
           "/static/images/data-pagination-and-filtering_1.png",
           "/static/images/data-pagination-and-filtering_2.png"
@@ -42,10 +42,45 @@
           "HTML"
         ],
         "live_link": "",
-        "github_link": "",
+        "github_link": "https://github.com/KhalidNabhani/interactive-form-v3.git",
         "image_urls": [
           "/static/images/interactive-form_1.png",
           "/static/images/interactive-form_2.png"
+        ]
+      },
+      {
+        "id": 3,
+        "project_name": "Object Oreiented Programming Game",
+        "description": "Using Opject Oriented Programming in JavaScript",
+        "technologies": [
+          "JavScript", 
+          "CSS", 
+          "HTML"
+        ],
+        "live_link": "",
+        "github_link": "https://github.com/KhalidNabhani/oop_game-v2.git",
+        "image_urls": [
+          "/static/images/oop_game_1.png",
+          "/static/images/oop_game_2.png"
+        ]
+      },
+      {
+        "id": 4,
+        "project_name": "Public API Requests ",
+        "description": "Fetching data by using fetch method",
+        "technologies": [
+          "JavScript", 
+          "CSS", 
+          "HTML"
+        ],
+        "live_link": "",
+        "github_link": "https://github.com/KhalidNabhani/FSJS_ProjectUnit5.git",
+        "image_urls": [
+          "/static/images/student-files_tn.png",
+          "/static/images/student-files_4.png",
+          "/static/images/student-files_1.png",
+          "/static/images/student-files_2.png",
+          "/static/images/student-files_3.png"
         ]
       }
       
