@@ -25,7 +25,7 @@ app.get('/', function (req, res){
   project  page route
   @param prject id  
 */
-app.get("/project/:id", function (req, res, next) {
+app.get("/project/:id", function (req, res) {
     const projId = req.params.id;
     const proj= projects.find( ({ id }) => id === +projId );
     res.render('project',{proj});
@@ -36,7 +36,7 @@ app.get("/project/:id", function (req, res, next) {
   About  page route
   @param prject id  
 */
-app.get("/about", function (req, res, next) {
+app.get("/about", function (req, res) {
     res.render('about');
    
 })
