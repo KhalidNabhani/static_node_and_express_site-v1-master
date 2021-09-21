@@ -137,7 +137,7 @@ nav a span {
   height: 100%;
   min-height: 100%;
   padding: 20px;
-  background: #000;
+  background: rgb(100, 1, 1);
 }
 
 .sidebar-info-box {
@@ -151,7 +151,7 @@ nav a span {
 .sidebar .thumbnail {
   width: 100%;
   max-width: 250px;
-  border: 4px solid #fff;
+  border: 4px solid rgb(105, 103, 103);
 }
 
 .dev-intro-box {
@@ -162,7 +162,12 @@ nav a span {
   color: #fefefe;
   margin: 0 auto 0.5rem;
 }
-
+.sidebar .arabic{
+  color: #fefefe;
+  margin: 0 auto 0.5rem;
+  font-family: 'Tajawal', sans-serif;
+  font-size:x-large;
+}
 .sidebar p {
   text-rendering: optimizeLegibility;
   line-height: 1.6;

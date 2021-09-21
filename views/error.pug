@@ -2,12 +2,11 @@ extends layout
 
 block content
   div.container
-    h1= `404 - Page Not Found`
-      span
-         p.not-found-p= `     Oops!  It looks like the page you're looking for does not exist.`
-
-   
-
+    h1= `${err.status} - ${err.message}`
+    nav.nav
+      a(href='/')
+        span &larr;
+        |  No werries lets take you back 
     if err
 
       div.not-found-stack
